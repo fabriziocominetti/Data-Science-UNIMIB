@@ -14,5 +14,3 @@ The project consists in the analysis of various regression models applied to a d
 ├── workflow
 └── report
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>
