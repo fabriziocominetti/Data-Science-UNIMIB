@@ -56,5 +56,3 @@ The results showed that the portfolios created over-performed compared to the in
 ├── notebooks
 └── report
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>

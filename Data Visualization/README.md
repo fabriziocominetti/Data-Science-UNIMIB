@@ -18,5 +18,3 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 ├── notebooks
 └── index.html
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>

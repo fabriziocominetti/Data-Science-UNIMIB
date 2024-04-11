@@ -27,5 +27,3 @@ This project focuses on the analysis of the Twitter community and sentiment rega
 ├── slideshow
 └── requirements.txt
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>

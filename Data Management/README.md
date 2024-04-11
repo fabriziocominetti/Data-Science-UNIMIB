@@ -16,5 +16,3 @@ The final database is complete of the various relationships between characters, 
 ├── data
 └── notebooks
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>

@@ -10,5 +10,3 @@
 ├── data
 └── notebooks
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>

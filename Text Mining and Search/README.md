@@ -31,5 +31,3 @@ In this project, user reviews from the IMDB platform were analyzed through the u
 ├── slideshow
 └── requirements.txt
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>

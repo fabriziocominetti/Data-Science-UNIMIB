@@ -13,5 +13,3 @@ Published 1 year after the delivery for didactic reasons.
 ├── data
 └── notebooks
 ```
-
-<p align="center"><img src="../images/unimib-gray.png" width="200"/></p>
